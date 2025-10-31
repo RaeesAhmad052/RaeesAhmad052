@@ -1,0 +1,1 @@
+I am a seasoned Computational Physicist (M.Phil.) with a diverse technical background raging from Developing Advance Scientific Algorithms to the Application level programming using MATLAB/SIMULINK & Microsoft Visual Studio C/C++.
