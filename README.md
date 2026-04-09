@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raeesahmad052&label=Profile%20views&color=0e75b6&style=flat" alt="raeesahmad052" /> </p>
 
-<p align="left"> <a href="https://raeesahmad052.github.io/Portfolio/"><img src="https://github-profile-trophy.vercel.app/?username=raeesahmad052" alt="raeesahmad052" /></a> </p>
+<p align="left"> <a href="https://raeesahmad052.github.io/Portfolio/"><img src="https://github-profile-trophy.vercel.app/?username=raeesahmad052" alt="Portfolio" /></a> </p>
 
 - 📫 How to reach me **raeesahmad052@gmail.com**
 
