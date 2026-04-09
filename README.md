@@ -8,9 +8,9 @@ I am a Computational Physicist (M.Phil.) with a diverse technical background ran
   <img src="https://komarev.com/ghpvc/?username=raeesahmad052&label=Profile%20views&color=0e75b6&style=flat" alt="raeesahmad052" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://raeesahmad052.github.io/Portfolio/" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=raeesahmad052" alt="raeesahmad052 trophies" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:000000&height=100&section=header&text=Visit%20My%20Portfolio&fontSize=20&fontColor=ffffff" />
   </a>
 </p>
 
@@ -57,10 +57,3 @@ I am a Computational Physicist (M.Phil.) with a diverse technical background ran
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raeesahmad052&show_icons=true&locale=en&layout=compact" alt="raeesahmad052" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raeesahmad052&show_icons=true&locale=en" alt="raeesahmad052" />
-</p>
